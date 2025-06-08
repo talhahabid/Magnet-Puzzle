@@ -1,0 +1,8 @@
+1  -   5x6: Passed in 1893 ms
+2a -   2x2: Passed in 0 ms
+2b -   2x2: Passed in 0 ms
+3a -   4x4: Passed in 0 ms
+3b -   4x4: Passed in 0 ms
+4a -   8x8: Passed in 7 ms
+4b -   8x8: Passed in 3873 ms
+5  - 16x16: 
